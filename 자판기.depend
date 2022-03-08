@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1645516014 source:c:\workspace\0218\자판기\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
+1645589549 source:c:\workspace\0218\자판기_황지현\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
+1646205278 source:c:\workspace\c\자판기\자판기_황지현_\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<string.h>
+	<time.h>
+
